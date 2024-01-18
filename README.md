@@ -1,6 +1,6 @@
-### Hi all, I'm Serhii Avdieiev - [Frontend Developer][vercel] 👋 
+### Hi all, I'm Serhii Avdieiev - [Experienced Frontend Developer][vercel] 👋 
 
-## I'm a Frontend Developer, Teacher and Mentor!
+## I'm an Experienced Frontend Developer, Teacher and Mentor!
 
 - 📍 I’m From Kyiv (Ukraine)
 - 💻 16+ Years Experience in Front-end Development
@@ -57,7 +57,7 @@
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taypyc&theme=algolia" alt="Serhii Avdieiev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="Serhii Avdieiev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="Serhii Avdieiev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taypyc&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
