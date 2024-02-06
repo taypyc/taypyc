@@ -37,7 +37,7 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
-### 🛠 Methodologies:
+### Methodologies:
 <img alt="agile" src="https://img.shields.io/badge/agile-61DAFB.svg?&style=for-the-badge&logo=agile&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
