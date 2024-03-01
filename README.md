@@ -45,6 +45,7 @@
 
 ### 🛠 Tools:
 
+<img alt="slack" src="https://img.shields.io/badge/slack-61DAFB.svg?&style=for-the-badge&logo=slack&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
@@ -55,6 +56,7 @@
 <img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="vercel" src="https://img.shields.io/badge/vercel-5920B1.svg?&style=for-the-badge&logo=vercel&logoColor=fff" />&nbsp;
+<img alt="teamwork" src="https://img.shields.io/badge/teamwork-2D80FF.svg?&style=for-the-badge&logo=teamwork&logoColor=fff" />&nbsp;
 
 ---
 
