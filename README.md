@@ -54,6 +54,7 @@
 <img alt="heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
+<img alt="zeplin" src="https://img.shields.io/badge/zeplin-939393.svg?&style=for-the-badge&logo=zeplin&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="vercel" src="https://img.shields.io/badge/vercel-5920B1.svg?&style=for-the-badge&logo=vercel&logoColor=fff" />&nbsp;
 <img alt="teamwork" src="https://img.shields.io/badge/teamwork-C21325.svg?&style=for-the-badge&logo=teamwork&logoColor=fff" />&nbsp;
