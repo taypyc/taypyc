@@ -39,6 +39,7 @@
 <img alt="docker" src="https://img.shields.io/badge/docker-007ACC.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 <img alt="aws" src="https://img.shields.io/badge/aws-C21325.svg?&style=for-the-badge&logo=aws&logoColor=fff" />&nbsp;
 <img alt="azure" src="https://img.shields.io/badge/azure-007ACC.svg?&style=for-the-badge&logo=azure&logoColor=fff" />&nbsp;
+<img alt="magento" src="https://img.shields.io/badge/magento-C21325.svg?&style=for-the-badge&logo=magento&logoColor=fff" />&nbsp;
 
 ### Methodologies:
 <img alt="agile" src="https://img.shields.io/badge/agile-61DAFB.svg?&style=for-the-badge&logo=agile&logoColor=fff" />&nbsp;
