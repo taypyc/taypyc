@@ -25,7 +25,7 @@
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
 <img alt="angular" src="https://img.shields.io/badge/angular-C21325.svg?&style=for-the-badge&logo=angular&logoColor=fff" />&nbsp;
 <img alt="VueJS" src="https://img.shields.io/badge/vue.js-26A944.svg?&style=for-the-badge&logo=vue.js&logoColor=fff" />&nbsp;
-<img alt="VueStoreFront" src="https://img.shields.io/badge/vue.js-26A944.svg?&style=for-the-badge&logo=vue.js&logoColor=fff" />&nbsp;
+<img alt="VueStoreFront" src="https://img.shields.io/badge/vueStoreFront-26A944.svg?&style=for-the-badge&logo=vueStoreFront&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="graphcommerce" src="https://img.shields.io/badge/graphcommerce-007ACC.svg?&style=for-the-badge&logo=graphcommerce&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
