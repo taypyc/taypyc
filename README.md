@@ -1,15 +1,16 @@
-### Hi all, I'm Serhii Avdieiev - [Frontend Developer][vercel] 👋 
+### Hi all, I'm Serhii Avdieiev - [Senior Frontend Developer][vercel] 👋 
 
 ## I'm a Frontend Developer, Teacher and Mentor!
 
 - 📍 I’m From Kyiv (Ukraine)
-- 💻 16+ Years Experience in Front-end Development
+- 💻 18+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 📚 Mentor
 
 ### 🤝 Connect with me:
 
 [<img alt="Serhii Avdieiev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Serhii Avdieiev | Facebook" src="https://img.shields.io/badge/facebook-0077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img alt="Serhii Avdieiev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="Serhii Avdieiev | Telegram" src="https://img.shields.io/badge/telegram-00f.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
@@ -23,7 +24,10 @@
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
 <img alt="angular" src="https://img.shields.io/badge/angular-C21325.svg?&style=for-the-badge&logo=angular&logoColor=fff" />&nbsp;
+<img alt="VueJS" src="https://img.shields.io/badge/vue.js-26A944.svg?&style=for-the-badge&logo=vue.js&logoColor=fff" />&nbsp;
+<img alt="VueStoreFront" src="https://img.shields.io/badge/vue.js-26A944.svg?&style=for-the-badge&logo=vue.js&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="graphcommerce" src="https://img.shields.io/badge/graphcommerce-007ACC.svg?&style=for-the-badge&logo=graphcommerce&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
@@ -68,6 +72,7 @@
 
 [vercel]: https://taypyc.vercel.app
 [linkedin]: https://www.linkedin.com/in/serhii-avdieiev/
+[facebook]: <https://www.facebook.com/taypyc>
 [twitter]: https://twitter.com/Serhii_Avdieiev
 [telegram]: https://t.me/taypyc1
 [CV]: https://taypyc.vercel.app/static/CV_Serhii.Avdieiev.pdf
