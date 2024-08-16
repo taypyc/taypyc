@@ -41,6 +41,7 @@
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+<img alt="php" src="https://img.shields.io/badge/php-61DAFB.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
