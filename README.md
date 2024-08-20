@@ -1,6 +1,6 @@
 ### Hi all, I'm Serhii Avdieiev - [Senior Frontend Developer][vercel] 👋 
 
-## I'm a Frontend Developer, Teacher and Mentor!
+## I'm a Senior Frontend Developer, Teacher and Mentor!
 
 - 📍 I’m From Kyiv (Ukraine)
 - 💻 18+ Years Experience in Front-end Development
