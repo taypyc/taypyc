@@ -12,7 +12,7 @@
 [<img alt="Serhii Avdieiev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="Serhii Avdieiev | Telegram" src="https://img.shields.io/badge/telegram-00f.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
-### 🤝 Please check my [<img valign=middle alt="Serhii Avdieiev CV file" src="https://img.shields.io/badge/resume%20in%20pdf-red.svg?&style=for-the-badge" />][CV]
+### 🤝 Please check my [<img valign=middle alt="Serhii Avdieiev CV file" src="https://img.shields.io/badge/resume-red.svg?&style=for-the-badge" />][CV]
 
 ---
 
