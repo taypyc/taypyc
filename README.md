@@ -10,7 +10,7 @@
 [<img alt="Serhii Avdieiev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Serhii Avdieiev | Facebook" src="https://img.shields.io/badge/facebook-0077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img alt="Serhii Avdieiev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img alt="Serhii Avdieiev | Telegram" src="https://img.shields.io/badge/telegram-00f.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img alt="Serhii Avdieiev | Calendly" src="[https://img.shields.io/badge/calendly%20me-00f.svg?&style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/calendly%20me-ccc.svg?&style=for-the-badge&logo=calendly&logoColor=white)" />][calendly]
 
 ### 🤝 Please check my [<img valign=middle alt="Serhii Avdieiev CV file" src="https://img.shields.io/badge/resume-red.svg?&style=for-the-badge" />][CV]
 
@@ -77,3 +77,4 @@
 [twitter]: https://twitter.com/Serhii_Avdieiev
 [telegram]: https://t.me/taypyc1
 [CV]: https://taypyc.vercel.app/static/CV_Serhii.Avdieiev.pdf
+[calendly]: https://calendly.com/serhii_avdieiev
