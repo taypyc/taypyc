@@ -2,7 +2,7 @@
 
 - 📍 I’m From Kyiv (Ukraine)
 - 💻 18+ Years Experience in Front-end Development
-- 👨‍💻 Front-end Enthusiast & Volunteer
+- 👨‍💻 Front-end Enthusiast
 - 📚 Mentor
 
 ### 🤝 Connect with me:
@@ -24,7 +24,7 @@
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
 <img alt="angular" src="https://img.shields.io/badge/angular-C21325.svg?&style=for-the-badge&logo=angular&logoColor=fff" />&nbsp;
 <img alt="VueJS" src="https://img.shields.io/badge/vue.js-26A944.svg?&style=for-the-badge&logo=vue.js&logoColor=fff" />&nbsp;
-<img alt="VueStoreFront" src="https://img.shields.io/badge/vueStoreFront-26A944.svg?&style=for-the-badge&logo=vueStoreFront&logoColor=fff" />&nbsp;
+<img alt="VueStoreFront" src="https://img.shields.io/badge/vueStoreFront-26A944.svg?&style=for-the-badge&logo=Vue Store Front&logoColor=fff" />&nbsp;
 <img alt="NuxtJs" src="https://img.shields.io/badge/nuxt-00DC82.svg?&style=for-the-badge&logo=nuxtStoreFront&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="graphcommerce" src="https://img.shields.io/badge/graphcommerce-007ACC.svg?&style=for-the-badge&logo=graphcommerce&logoColor=fff" />&nbsp;
@@ -32,7 +32,7 @@
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next&logoColor=fff" />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
