@@ -56,6 +56,7 @@
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
+<img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=fff" />&nbsp;
 <img alt="vercel" src="https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=fff" />&nbsp;
 <img alt="resend" src="https://img.shields.io/badge/resend-000000.svg?&style=for-the-badge&logo=resend&logoColor=fff" />&nbsp;
 
