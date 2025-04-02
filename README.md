@@ -19,7 +19,7 @@
 ### 💻 Tech Stack:
 
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
-<img alt="NextJs" src="https://img.shields.io/badge/next-000000.svg?&style=for-the-badge&logo=Next&logoColor=fff" />&nbsp;
+<img alt="NextJs" src="https://img.shields.io/badge/next-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
