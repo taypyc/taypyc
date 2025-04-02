@@ -10,7 +10,8 @@
 [<img alt="Serhii Avdieiev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Serhii Avdieiev | Facebook" src="https://img.shields.io/badge/facebook-0077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img alt="Serhii Avdieiev | X" src="https://img.shields.io/badge/x-1DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />][x]
-[<img alt="Serhii Avdieiev | Telegram" src="https://img.shields.io/badge/taypyc1-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][Telegram]
+[<img alt="Serhii Avdieiev | Telegram" src="https://img.shields.io/badge/taypyc1-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img alt="Serhii Avdieiev | About" src="https://img.shields.io/badge/About.me-333333.svg?&style=for-the-badge&logo=aboutdotme&logoColor=white" />][about]
 [<img alt="Serhii Avdieiev | Calendly" src="https://img.shields.io/badge/calendly%20me-ccc.svg?&style=for-the-badge&logo=calendly&logoColor=white)" />][calendly]
 
 ### 🤝 Please check my [<img valign=middle alt="Serhii Avdieiev CV file" src="https://img.shields.io/badge/resume-red.svg?&style=for-the-badge" />][CV]
