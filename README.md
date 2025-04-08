@@ -46,6 +46,7 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 <img alt="Handlebars" src="https://img.shields.io/badge/handlebarsJS-000000.svg?&style=for-the-badge&logo=handlebarsdotjs&logoColor=fff" />&nbsp;
+<img alt="underscoreJS" src="https://img.shields.io/badge/underscoreJS-0371B5.svg?&style=for-the-badge&logo=underscoredotjs&logoColor=fff" />&nbsp;
 <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
