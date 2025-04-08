@@ -20,13 +20,14 @@
 
 ### 💻 Tech Stack:
 
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="NextJs" src="https://img.shields.io/badge/next-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
-<img alt="ngRx" src="https://img.shields.io/badge/NgRx-BA2BD2.svg?&style=for-the-badge&logo=ngrx&logoColor=fff" />&nbsp;
 <img alt="angular" src="https://img.shields.io/badge/angular-C21325.svg?&style=for-the-badge&logo=angular&logoColor=fff" />&nbsp;
+<img alt="ngRx" src="https://img.shields.io/badge/NgRx-BA2BD2.svg?&style=for-the-badge&logo=ngrx&logoColor=fff" />&nbsp;
 <img alt="VueJS" src="https://img.shields.io/badge/vue.js-26A944.svg?&style=for-the-badge&logo=vue.js&logoColor=fff" />&nbsp;
 <img alt="VueStoreFront" src="https://img.shields.io/badge/vueStoreFront-26A944.svg?&style=for-the-badge&logo=VueStoreFront&logoColor=fff" />&nbsp;
 <img alt="Nuxt" src="https://img.shields.io/badge/nuxt-00DC82.svg?&style=for-the-badge&logo=nuxt&logoColor=fff" />&nbsp;
@@ -42,9 +43,9 @@
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="less" src="https://img.shields.io/badge/less-26A944.svg?&style=for-the-badge&logo=less&logoColor=fff" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
-<img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+<img alt="Handlebars" src="https://img.shields.io/badge/handlebarsJS-000000.svg?&style=for-the-badge&logo=handlebarsdotjs&logoColor=fff" />&nbsp;
 <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
