@@ -48,6 +48,7 @@
 <img alt="Handlebars" src="https://img.shields.io/badge/handlebarsJS-000000.svg?&style=for-the-badge&logo=handlebarsdotjs&logoColor=fff" />&nbsp;
 <img alt="underscoreJS" src="https://img.shields.io/badge/underscoreJS-0371B5.svg?&style=for-the-badge&logo=underscoredotjs&logoColor=fff" />&nbsp;
 <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
+<img alt="JSON web tokens" src="https://img.shields.io/badge/jsonwebtokens-000000.svg?&style=for-the-badge&logo=JSON web tokens&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
