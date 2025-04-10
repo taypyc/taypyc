@@ -77,9 +77,6 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taypyc&theme=algolia" alt="Serhii Avdieiev's Github stats" />
-    </td>
-    <td>
       <img height="195px" align="right" alt="Serhii Avdieiev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
     </td>
   </tr>
