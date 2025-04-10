@@ -33,6 +33,8 @@
 <img alt="Nuxt" src="https://img.shields.io/badge/nuxt-00DC82.svg?&style=for-the-badge&logo=nuxt&logoColor=fff" />&nbsp;
 <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=Vite&logoColor=fff" />&nbsp;
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=fff" />&nbsp;
+<img alt="JSON" src="https://img.shields.io/badge/json-000000.svg?&style=for-the-badge&logo=JSON&logoColor=fff" />&nbsp;
+<img alt="JSON web tokens" src="https://img.shields.io/badge/json%20web%20tokens-000000.svg?&style=for-the-badge&logo=JSON web tokens&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="graphcommerce" src="https://img.shields.io/badge/graphcommerce-007ACC.svg?&style=for-the-badge&logo=graphcommerce&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
@@ -48,7 +50,6 @@
 <img alt="Handlebars" src="https://img.shields.io/badge/handlebarsJS-000000.svg?&style=for-the-badge&logo=handlebarsdotjs&logoColor=fff" />&nbsp;
 <img alt="underscoreJS" src="https://img.shields.io/badge/underscoreJS-0371B5.svg?&style=for-the-badge&logo=underscoredotjs&logoColor=fff" />&nbsp;
 <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
-<img alt="JSON web tokens" src="https://img.shields.io/badge/json%20web%20tokens-000000.svg?&style=for-the-badge&logo=JSON web tokens&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
