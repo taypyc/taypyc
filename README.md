@@ -77,7 +77,7 @@
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="Serhii Avdieiev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
+      <img height="195px" alt="Serhii Avdieiev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taypyc&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
