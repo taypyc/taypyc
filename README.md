@@ -54,7 +54,7 @@
 
 ### 🛠 Tools:
 
-<img alt="AWS" src="https://img.shields.io/badge/amazon%20web%20services-232F3E.svg?&style=for-the-badge&logo=Amazon Web Services&logoColor=fff" />&nbsp;
+<img alt="AWS" src="https://img.shields.io/badge/amazon%20web%20services-232F3E.svg?&style=for-the-badge&logo=Amazon" />&nbsp;
 <img alt="GIT" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
