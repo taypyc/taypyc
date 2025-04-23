@@ -51,8 +51,8 @@
 <img alt="underscoreJS" src="https://img.shields.io/badge/underscoreJS-0371B5.svg?&style=for-the-badge&logo=underscoredotjs&logoColor=fff" />&nbsp;
 <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
 <img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=fff" />&nbsp;
-<img alt="radix/ui" src="https://img.shields.io/badge/radixui-161618.svg?&style=for-the-badge&logo=radixui&logoColor=fff" />&nbsp;
-<img alt="shadcn/ui" src="https://img.shields.io/badge/shadcnui-000000.svg?&style=for-the-badge&logo=shadcnui&logoColor=fff" />&nbsp;
+<img alt="radix/ui" src="https://img.shields.io/badge/radixui-161618.svg?&style=for-the-badge&logo=radix/ui&logoColor=fff" />&nbsp;
+<img alt="shadcn/ui" src="https://img.shields.io/badge/shadcnui-000000.svg?&style=for-the-badge&logo=shadcn/ui&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
