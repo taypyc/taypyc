@@ -34,7 +34,7 @@
 <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=Vite&logoColor=fff" />&nbsp;
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=fff" />&nbsp;
 <img alt="JSON" src="https://img.shields.io/badge/json-000000.svg?&style=for-the-badge&logo=JSON&logoColor=fff" />&nbsp;
-<img alt="JSON web tokens" src="https://img.shields.io/badge/json%20web%20tokens-000000.svg?&style=for-the-badge&logo=JSON web tokens&logoColor=fff" />&nbsp;
+<img alt="JSON web tokens" src="https://img.shields.io/badge/json%20web%20tokens-000000.svg?&style=for-the-badge&logo=JSON" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="graphcommerce" src="https://img.shields.io/badge/graphcommerce-007ACC.svg?&style=for-the-badge&logo=graphcommerce&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
@@ -50,12 +50,13 @@
 <img alt="Handlebars" src="https://img.shields.io/badge/handlebarsJS-000000.svg?&style=for-the-badge&logo=handlebarsdotjs&logoColor=fff" />&nbsp;
 <img alt="underscoreJS" src="https://img.shields.io/badge/underscoreJS-0371B5.svg?&style=for-the-badge&logo=underscoredotjs&logoColor=fff" />&nbsp;
 <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
+<img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=fff" />&nbsp;
 <img alt="radix/ui" src="https://img.shields.io/badge/radixui-161618.svg?&style=for-the-badge&logo=radixui&logoColor=fff" />&nbsp;
 <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcnui-000000.svg?&style=for-the-badge&logo=shadcnui&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
-<img alt="AWS" src="https://img.shields.io/badge/amazon%20web%20services-232F3E.svg?&style=for-the-badge&logo=Amazon Web Services&logoColor=fff" />&nbsp;
+<img alt="AWS" src="https://img.shields.io/badge/amazon%20web%20services-232F3E.svg?&style=for-the-badge&logo=Amazon" />&nbsp;
 <img alt="GIT" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
