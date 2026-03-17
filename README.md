@@ -1,3 +1,5 @@
+![Frontend tech banner](https://media.licdn.com/dms/image/v2/D4D16AQHDg_hDva7MfA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723722997036?e=1775088000&v=beta&t=UbJyNcOt3DAM6Ok2j_Q215myuSdSBDzPWriWnXm5PKE)
+
 ### Hi all, I'm Serhii Avdieiev - [Senior Frontend Developer, Teacher and Mentor!][vercel] 👋 
 
 - 📍 I’m From Kyiv (Ukraine)
