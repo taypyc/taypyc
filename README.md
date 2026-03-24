@@ -34,6 +34,11 @@ I am consistently motivated by challenging environments where architecture, perf
 ---
 
 ### 💻 Tech Stack:
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?&style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+<img alt="LangChain" src="https://img.shields.io/badge/langchain-FFD600.svg?&style=for-the-badge&logo=langchain&logoColor=black" />&nbsp;
+<img alt="HuggingFace" src="https://img.shields.io/badge/huggingface-FFD21F.svg?&style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
+<img alt="Vertex AI" src="https://img.shields.io/badge/vertex%20ai-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
+<img alt="Anthropic" src="https://img.shields.io/badge/anthropic-000000.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSI5IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" />&nbsp;
 
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
@@ -49,6 +54,7 @@ I am consistently motivated by challenging environments where architecture, perf
 <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=Vite&logoColor=fff" />&nbsp;
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=fff" />&nbsp;
 <img alt="JSON" src="https://img.shields.io/badge/json-000000.svg?&style=for-the-badge&logo=JSON&logoColor=fff" />&nbsp;
+<img alt="REST API" src="https://img.shields.io/badge/rest%20api-02569B.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
 <img alt="JSON web tokens" src="https://img.shields.io/badge/json%20web%20tokens-000000.svg?&style=for-the-badge&logo=JSON" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="graphcommerce" src="https://img.shields.io/badge/graphcommerce-007ACC.svg?&style=for-the-badge&logo=graphcommerce&logoColor=fff" />&nbsp;
