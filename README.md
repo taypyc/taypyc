@@ -72,6 +72,7 @@ I am consistently motivated by challenging environments where architecture, perf
 ### 🛠 Tools:
 
 <img alt="AWS" src="https://img.shields.io/badge/amazon%20web%20services-232F3E.svg?&style=for-the-badge&logo=Amazon" />&nbsp;
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/google%20cloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
 <img alt="GIT" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
