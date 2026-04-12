@@ -110,12 +110,12 @@ I am consistently motivated by challenging environments where architecture, perf
 
 ---
 
-[vercel]: https://taypyc.vercel.app
+[vercel]: https://dev-you-need.vercel.app
 [linkedin]: https://www.linkedin.com/in/serhii-avdieiev/
 [facebook]: <https://www.facebook.com/taypyc>
 [x]: https://twitter.com/Serhii_Avdieiev
 [telegram]: https://t.me/taypyc1
 [about]: https://about.me/avdieiev
-[CV]: https://taypyc.vercel.app/static/CV_Serhii.Avdieiev.pdf
+[CV]: https://dev-you-need.vercel.app/CV_Serhii.Avdieiev.pdf
 [calendly]: https://calendly.com/serhii_avdieiev
 [exercism]: https://exercism.org/profiles/taypyc
