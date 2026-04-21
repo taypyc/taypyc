@@ -1,6 +1,6 @@
 ![Tech banner](./banner.png)
 
-### Hi all, I'm Serhii Avdieiev - [Lead Frontend Engineer, Teacher and Mentor!][vercel] 👋 
+### Hi all, I'm Serhii Avdieiev - [Lead Software Engineer, Teacher and Mentor!][vercel] 👋 
 
 I am a Lead Software Engineer  with more than 20 years of experience building high-performance, scalable web applications within the fintech, e-commerce, and media sectors. Throughout my career, I have balanced deep technical execution with architectural ownership and team leadership to deliver resilient and maintainable frontend systems.
 
@@ -35,6 +35,8 @@ I am consistently motivated by challenging environments where architecture, perf
 
 ### 💻 Tech Stack:
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?&style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+<img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
 <img alt="LangChain" src="https://img.shields.io/badge/langchain-FFD600.svg?&style=for-the-badge&logo=langchain&logoColor=black" />&nbsp;
 <img alt="HuggingFace" src="https://img.shields.io/badge/huggingface-FFD21F.svg?&style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
 <img alt="Vertex AI" src="https://img.shields.io/badge/vertex%20ai-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
