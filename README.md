@@ -1,8 +1,8 @@
-![Frontend tech banner](./banner.jpeg)
+![Tech banner](./banner.png)
 
 ### Hi all, I'm Serhii Avdieiev - [Lead Frontend Engineer, Teacher and Mentor!][vercel] 👋 
 
-I am a Lead Frontend Developer with more than 20 years of experience building high-performance, scalable web applications within the fintech, e-commerce, and media sectors. Throughout my career, I have balanced deep technical execution with architectural ownership and team leadership to deliver resilient and maintainable frontend systems.
+I am a Lead Software Engineer  with more than 20 years of experience building high-performance, scalable web applications within the fintech, e-commerce, and media sectors. Throughout my career, I have balanced deep technical execution with architectural ownership and team leadership to deliver resilient and maintainable frontend systems.
 
 In my most recent leadership roles, I have been responsible for defining frontend architecture and establishing the engineering standards that guide complex web platforms. My core expertise lies in React, Angular, TypeScript, Node.js, and implementing interfaces aligned with Web Content Accessibility Guidelines (WCAG), with a heavy focus on scalability and performance optimization. I have spearheaded major refactoring initiatives to eliminate technical debt and implemented strategies like code splitting and lazy loading to ensure high-speed user experiences. I believe that consistent code quality is achieved through structured review processes and rigorous testing practices.
 
@@ -16,7 +16,6 @@ I am consistently motivated by challenging environments where architecture, perf
 - 📍 I’m From Kyiv (Ukraine)
 - 💻 20+ years of experience in development
 - ♿ Strong experience implementing accessible UI aligned with WCAG standards
-- 👨‍💻 Front-end Enthusiast
 - 📚 Mentor
 
 
