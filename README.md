@@ -28,8 +28,6 @@ I am consistently motivated by challenging environments where architecture, perf
 [<img alt="Serhii Avdieiev | About" src="https://img.shields.io/badge/About.me-333333.svg?&style=for-the-badge&logo=aboutdotme&logoColor=white" />][about]
 [<img alt="Serhii Avdieiev | Exercism" src="https://img.shields.io/badge/exercism-009CAB.svg?&style=for-the-badge&logo=exercism&logoColor=white" />][exercism]
 [<img alt="Serhii Avdieiev | LeetCode" src="https://img.shields.io/badge/leetcode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
-
-
 [<img alt="Serhii Avdieiev | Calendly" src="https://img.shields.io/badge/calendly%20me-ccc.svg?&style=for-the-badge&logo=calendly&logoColor=white" />][calendly]
 
 ### 🤝 Please check my [<img valign=middle alt="Serhii Avdieiev CV file" src="https://img.shields.io/badge/resume-red.svg?&style=for-the-badge" />][CV]
